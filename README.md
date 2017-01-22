@@ -6,7 +6,8 @@
 ####A user of All Is Well is either a client or a therapist. User signup allows for a client to enter their basic information, in addition to specifying who their therapist is. Once a client is logged in, they may write journal entries, complete a mood survey, read their therapist's shared notes, or post a significant emotional event for the therapist's viewing. A therapist can write notes the client or themself, in addition to view events and journal entries submitted by the client.
 
 ####The website is hosted on Heroku here: https://all-is-well.herokuapp.com/
-
+####To log in as a therapist with username: bsanderson@alliswell.com and password: password
+####To log in as a client with username: swilson@alliswell.com and password: password  
 ----
 
 ###Client Journal Entries
